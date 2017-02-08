@@ -1,0 +1,160 @@
+h1{
+	font-size: 40px;
+	color: blue;
+}
+#Contact{
+	color: blue;
+}
+
+
+.div-left {
+	font-family: 'Indie Flower', cursive;
+	width: 70%;
+    float: left;
+    background-color: #FFEB3B;
+    border-color: black !important;
+    background-image: url(../assets/car-wallpaper-17.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 108px;
+    overflow-y: hidden;
+    margin-top: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    border: solid 1px;
+    padding: 10px;
+    text-transform: lowercase;
+    overflow-y: scroll;
+
+
+
+}
+.div-right {
+	font-family: 'Molle', cursive;
+	width: 25%;
+	float: right;
+	background-color: #9fa5ab;
+	border-color: black !important;
+	max-height: 108px;
+	overflow-y: scroll;
+	margin-top: 10px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    border: solid 1px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    letter-spacing: 0.1px;
+    word-spacing: 0.1px;
+    text-overflow: ellipsis;
+
+}
+.div-menu{
+	font-family: 'Merriweather', serif;
+	background-color: brown;
+	border-color: black !important;
+	margin-bottom: 10px;
+    margin-top: 10px;
+    border: solid 1px;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    word-spacing: 0.1px;
+    text-overflow: ellipsis;
+
+}
+.main-div{
+	margin-top: 15px;
+
+}
+
+.color-blue{
+	color: blue ;
+}
+.color-white{
+	color: white ;
+}
+.color-yellow{
+	color: yellow ;
+}
+.color-green{
+	color: green ;
+}
+.text-modification{
+	letter-spacing: 0.1px;
+    word-spacing: 0.1px;
+}
+.menu-border{
+border-color: black !important;
+border: solid 1px;
+width: 25%;
+float: right;
+}
+
+.align-right{
+	text-align: right;
+	width: 40px;
+	padding-left: 26px
+	margin-left: 3px;
+	
+}
+.align-center{
+	text-align: center;
+
+}
+.align-left
+{
+	text-align: left;
+	width: 50%;
+	margin-left: 175px;
+	
+}
+.menu-items{
+	border:solid 1px;
+	border-color: black;
+	border-right: solid 1px;
+	border-left: solid 1px;
+
+}
+
+.galary-div{
+	border: solid 1px;
+	margin-top: 10px;
+	 width:118%;
+}
+.clearfix{
+	clear: both;
+}
+.galary-item{
+	border: solid 1px;
+
+}
+
+.form-div{
+	border: solid 1px;
+	text-align: center;
+}
+.text-area-width{
+	width: 167px;
+}
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 412px)
+{
+	.div-menu{
+		width: 116%;
+	}
+	.main-div{
+		width: 118%;
+	}
+
+	.galary-div{
+		width: 118%;
+	}
+	.form-div{
+		    width: 118%;
+	}
+
+};

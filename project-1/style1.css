@@ -1,0 +1,106 @@
+
+
+.bodystyle
+{
+	width: 985px;
+    height: 326;
+   
+
+}
+    .heading{
+	text-align: center;
+    font-size: 28px;
+    padding-left: 315px;
+    margin-left: 349px;
+    padding: 25px;
+}
+
+
+.scroll{
+	 
+    overflow: auto;
+
+	    width: 1337px;
+    height: 548px;
+   
+
+
+}
+
+
+.table{
+	border-collapse: collapse;
+	 text-align: left;
+      width: 80%;
+      height: 120px;
+       padding: 10px;
+      height: 120px;
+      color: black;
+      overflow:auto;
+}
+.txtcolor{
+	color: white;
+}
+.trtxtcolor{
+	color: black;
+}
+.colorgray{
+	background-color:rgba(220, 237, 200, 0.52);
+}
+
+.colorgreen{
+   background-color:#AED581;
+}
+
+.th{
+	background-color: red;
+	color: white;
+}
+
+.txt1{
+	color: white;
+	    font-family: sans-serif;
+	    font-size: small;
+}
+.fonstyle{
+
+}
+.colorblack{
+	background-color: #37474F;
+	text-align: right;
+	color: white;
+}
+.closeproperty{
+	color: white;
+	border-color: #b30707;
+	border-radius: 5px;
+	background-color: #ca0202;
+    
+    text-align: right;
+    border: solid 0.1px;
+    padding: 7px 16px;
+
+    
+
+}
+
+.hideproperty{
+	color: white;
+	border-color: #b30707;
+	border-radius: 5px;
+	background-color: #ca0202;
+    
+    text-align:right;
+    border: solid 0.1px;
+    padding: 7px 16px;
+    margin-left:306px;
+
+
+}
+.fotterstyle{
+	color: gray;
+	text-align: right;
+    width: 1113px;
+    padding: 30px 1px;
+}
+

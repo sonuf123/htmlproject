@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Square Free String Checker</title>
+    <h1>square free string</h1>
+</head>
+
+<script>
+
+function isSquareFree(s) 
+{
+    var lowerchar=s.toLowerCase();
+    var charlength=lowerchar.length;
+    var midcharlength=lowerchar.length/2;
+    var firsthalf=lowerchar.slice(0,midcharlength);
+    var secondhalf=lowerchar.slice(midcharlength,charlength);
+    var flag=0;
+
+    if (charlength===0) 
+    {
+                return(alert("Please enter a valid input"));
+                
+    }
+    else if(charlength>50)
+    {
+                return(alert("Please enter a valid input (1-50 char)"));
+    }
+    else
+    {           
+                if(firsthalf==secondhalf)
+                {
+                    flag=1;
+                }
+
+                for (var i = 0; i < charlength; i++)
+                
+    	
+				{
+    					var firstword = lowerchar.charAt(i);
+    					var secondword=lowerchar.charAt(i+1);
+    					if(firstword==secondword)
+    					{
+    						flag=1;
+    					}
+
+    					
+				}
+	}
+
+    if(flag==1)
+    {
+        return(alert("not squre free"));
+    }
+    else
+    {
+        return(alert("squre free"));
+    }
+
+}
+
+isSquareFree("abcd");
+
+
+</script>
+</body>
+</html>

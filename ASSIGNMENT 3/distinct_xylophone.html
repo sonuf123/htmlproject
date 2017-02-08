@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Distinct Xylophone Problem</title>
+</head>
+
+<script>
+function countKeys(keys) 
+{ 
+   var a=[];
+   var c=0;
+   var temp=[];
+
+ if (keys.length===0) 
+    {
+                return(alert("Enter a valid input"));
+                
+    }
+    else if(keys.length>50)
+    {
+                return(alert("Enter a valid input (1-50 char)"));
+    }
+    else
+{
+
+
+   for(var i=0;i<keys.length;i++)
+   {
+        if(keys[i]>7)
+        {
+           
+            while(keys[i]>7)
+            {
+                keys[i]=keys[i]-7;
+            }
+
+            a[i]=keys[i];
+
+        }
+        else
+        {
+            a[i]=keys[i];
+        }
+   }
+   
+    for(var i = 0; i < a.length; i++){
+        if(temp.indexOf(a[i]) == -1){
+        temp.push(a[i]);
+        }
+    }
+    
+   return(alert("number of notes: "+temp.length));
+  
+}
+}
+
+countKeys([1,2,3,1,1,1,2]);
+
+</script>
+
+</body>
+</html>

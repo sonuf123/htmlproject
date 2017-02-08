@@ -1,0 +1,24 @@
+charset------------uft-8
+characterset----------a-z,A-Z,0-9,+,/,%,HEXADECIMAL
+SMILIY
+SEMANTIC TAGS----------SEO-(WEBPAGE KROLLING)-HEADER
+
+CUSTOM TAGS-----<ITLH></ITLH>USER DEFINED TAGS
+step 1 to create cheat code
+<html>
+<head>
+</head>
+<script>
+doc.createelement('itlh');
+</script>
+<itlh></itlh>custom doc........i97
+moderniza.js
+html5shiv browser dectection
+
+4) support for media----audio src="song.mp3">
+video
+5)  canvas
+
+homework
+svg
+canves

@@ -1,0 +1,11 @@
+h1{
+	color:white;
+}
+.color-black{
+	
+	background-color: pink !important;
+
+}
+div .col-md-3 .color-black{
+ background-color: yellow !important;
+}

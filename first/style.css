@@ -1,0 +1,15 @@
+.form{   
+ border: 24px solid;
+ padding: 41px;
+
+}
+
+.hide {
+	display :none;
+
+
+}
+.Redcolor{
+	color: red;
+	background-color: yellow;
+}

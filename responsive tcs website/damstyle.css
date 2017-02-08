@@ -1,0 +1,332 @@
+.body{
+    margin: 0px;
+}
+ .homestyle
+
+ {
+  width: 1100px;
+    border: solid 2px;
+margin: 0 auto;
+text-align: center;
+word-spacing: 4px;
+text-align: left;
+border-color: rgb(224, 224, 224);
+
+}
+#linkref{
+
+   color: black;
+      text-decoration: none;
+      padding: 6px;
+}
+#linkref2{
+  text-decoration: none; 
+  color: white
+
+  }
+
+.header2image{
+  height: 141px;
+    width: 976px;
+    border: solid 2px;
+    border-color: rgb(224, 224, 224);
+    background-image: url(./assets/TCS-lp-masthead-blue.png);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.transparentbox{
+        width: 449px;
+    height: 192px;
+    margin-top: -148px;
+    margin-left: -53px;
+        color: black;
+}
+.search{
+    margin-left: 42px;
+    margin-top:213px;
+        box-shadow: 0 1px 4px
+}
+.txt{
+          width: 130px;
+    font-size: 10px;
+    height: 28px;
+    margin-bottom: 7px;
+    margin-left: 38px;
+}
+.searchbtn{
+   width: 58px;
+    height: 23px;
+    background: no-repeat;
+    left: 915px;
+    top: 5px;
+}
+.navigation{
+  background-image: url(./assets/aXImw5S.jpg);
+    color: white;
+    margin-top: 104px;
+    height: 37px;
+}
+
+
+.header3image{
+  height: 333px;
+    width: 976px;
+    border: solid 2px;
+    border-color: rgb(224, 224, 224);
+    background-image: url(./assets/TCS-brand-rank.jpg);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.textonimage{
+        margin-top: 38px;
+        font-size: 16px;
+        color: white;
+        padding-left: 16px;
+
+
+}
+.header1{border-right: solid 1px;
+
+    border-bottom-color: white;
+    width: 105px;
+    padding: 7px;
+    text-align: center;
+    height: 36px;
+}
+.header2{       width: 103px;
+    margin-left: 120px;
+    margin-top: -37px;
+    height: 38px;
+    padding: 7px;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    text-align: center;}
+
+.header3{    border-right: solid 1px;
+    border-bottom-color: white;
+    width: 117px;
+    margin-left: 238px;
+    margin-top: -37px;
+    height: 40px;
+    padding: 7px;
+    text-align: center;}
+
+.header4{    width: 106px;
+    margin-left: 372px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 36px;}
+.header5{     width: 116px;
+    margin-left: 496px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 36px;}
+
+.header6{    width: 114px;
+    margin-left: 632px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom-color: white;
+    height: 36px;}
+.header7
+{
+    width: 184px;
+    margin-left: 766px;
+    margin-top: -37px;
+    padding: 7px;
+    text-align: center;}
+
+
+
+.firstsection{
+           
+      background-color: rgba(0, 0, 0, 0.55);
+    
+    font-size: 11px;
+    padding-bottom: 5px;
+    padding-top: 1px;
+    line-height: 15px;
+    width: 311px;
+    font-family: sans-serif;
+    margin-top: 14px;
+    margin-left: -14px;
+    padding-left: 19px;
+    height: 202px;
+    
+}
+.secondsection{
+            
+    
+    background-color: rgba(0, 0, 0, 0.55);
+    font-size: 11px;
+    padding-top: 1px;
+    height: 201px;
+    line-height: 13px;
+    width: 317px;
+    font-family: sans-serif;
+    padding-left: 25px;
+    margin-top: -203px;
+    margin-left: 309px;
+
+   }
+.thirdsection {
+    
+    background-color: rgba(0, 0, 0, 0.55);
+    padding-bottom: 5px;
+    padding-left: 16px;
+    font-size: 11px;
+    line-height: 15px;
+    font-family: sans-serif;
+    width: 315px;
+    margin-left:638px;
+    margin-top: -201px;
+    padding-top: 3px;
+}
+   .color-white{
+    color: white;
+
+   }
+   .color-blue{
+    color: #6bcff6;
+     text-decoration: none;
+
+
+   }
+   .color-darkblue{
+     color: darkblue;
+     text-decoration: none;
+
+    
+}
+   .footer{
+       margin: 13px;
+    margin-top: 21px;
+    border: solid;
+    border-top-color: rgb(224, 224, 224);
+    border-top-style: ridge;
+    border-right-color: rgb(224, 224, 224);
+    border-left-color: rgb(224, 224, 224);
+    border-bottom-color: rgb(224, 224, 224);
+}
+   
+
+   .mainfooter{
+    background-color: rgb(224, 224, 224);
+    border-top
+     padding: 0px 0 0 0;
+    line-height: 18px;
+    
+    font-family: Verdana;
+    font-size: 11px;
+    color: #666
+    border: solid 2px;
+    margin: 0 auto;
+    margin-top: 16px;
+    height: 368px;
+    
+
+
+    }
+    .footer1{
+      background-color: rgb(224, 224, 224);
+    width: 1002px;
+    
+    margin-bottom: 3px;
+    margin-left: -14px;
+    }
+
+    .footer2{
+        margin-left: 271px;
+    margin-top: -255px;
+    margin-bottom: 0;
+    border-right: none 0;
+    line-height: 15px;
+    width: 281px;
+    
+    
+
+    }
+     .caption {
+    width: 430px;
+    height: 229px;
+    padding: 10px 5px 30px 20px;
+    color: #CCC616;
+    background: transparent url(./assets/aXImw5S.jpg);
+    left: 0px;
+    display: none;
+    z-index: 10;
+    margin-bottom: 25px;
+    position: absolute;
+    top: 70px;
+    border-bottom: 1px solid #6a6a6a;
+    border-right: 10px solid #007ac2;
+
+
+
+
+
+
+
+
+    }
+    .caption > p {
+    width: 400px;
+    font-size: 14px;
+    margin-bottom: 8px;
+    line-height: 18px;
+    margin-left: 0px;
+    color: #ffffff;
+    font-weight: normal;
+    font-family: Myriad Pro, Arial, Verdana;
+    margin-top: 8px;
+}
+.caption-category {
+    width: 400px;
+    font-size: 12px!important;
+    margin-bottom: 8px;
+    line-height: 20px;
+    margin-left: 0px;
+    color: #ffffff;
+    font-weight: bold!important;
+    text-transform: uppercase;
+    font-family: Myriad Pro, Arial, Verdana;
+    margin-top: 4px;
+}
+
+   .footer3{
+
+       line-height: 15px;
+         
+    
+    width: 180px;
+    margin-top: -247px;
+    margin-left: 572px;
+   }
+   .footer4{
+    line-height: 15px;
+        width: 180px;
+    margin-left: 784px;
+    margin-top: -249px;
+    font-size: 11px;
+    border: solid 0px;;
+   }
+   .newfooterborder{
+    width: 960px;
+    border-top: 1px solid #e5e5e5;
+   }
+   .endfooter{
+    margin-left: 171px;
+    font-family: arial;
+    font-size: 10px;
+   }
